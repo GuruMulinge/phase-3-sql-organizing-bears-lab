@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 10,
+            "driver": "SQLite",
+            "name": "bears_lab SQlite",
+            "database": "${workspaceFolder:phase-3-sql-organizing-bears-lab}/database/bears_lab.db"
+        }
+    ]
+}
